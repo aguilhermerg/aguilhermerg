@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning data analysis at Tripleten
 - 💞️ I’m looking to collaborate on several projects to develop my skills in programing language and statistic
 - 📫 How to reach me aguilherme.rg@gmail.com
-- 😄 Pronouns: Dedé
 - ⚡ Fun fact: I hate olives 
 
 <!---
