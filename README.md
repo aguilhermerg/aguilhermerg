@@ -1,6 +1,6 @@
 - 👋 Hi, I’m André 
 - 👀 I’m interested in music, football, extreme sports and games 
-- 🌱 I’m currently learning data analysis at Tripleten
+- 🌱 I just completed a data analysis bootcamp at Tripleten Brasil
 - 💞️ I’m looking to collaborate on several projects to develop my skills in different programing languages and statistic
 - 📫 How to reach me aguilherme.rg@gmail.com or https://www.linkedin.com/in/andre-guilherme-alves-rodrigues/
 - ⚡ Fun fact: I hate olives 
