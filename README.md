@@ -43,7 +43,7 @@ I completed an intensive **Data Analytics Bootcamp** at [Tripleten](https://trip
 📌 **Web Scraping with BeautifulSoup**  
 📌 **SQL Queries for E-commerce Dataset**
 
-🔗 Check all my work here → [GitHub Portfolio](https://github.com/aguilhermerg)
+🔗 Check all my work here → [GitHub Portfolio]([https://github.com/aguilhermerg](https://github.com/aguilhermerg?tab=repositories))
 
 ---
 
