@@ -29,6 +29,7 @@ I completed an intensive **Data Analytics Bootcamp** at [Tripleten](https://trip
 ![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
 > 📊 Exploratory Data Analysis • 📈 Visualization • 🧮 Statistics • 🤖 ML (basics) • 🔍 ETL • 🧹 Data Cleaning
 
