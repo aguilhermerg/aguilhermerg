@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm André Rodrigues 👋</h1>
 
 <p align="center">
-  <b>Junior Data Analyst</b> | <code>Python</code> • <code>SQL</code> • <code>Power BI</code> • <code>Tableau</code><br>
+  <b>Junior Data Analyst</b> | <code>Python</code> • <code>SQL</code> • <code>Power BI</code> • <code>Tableau</code><br> • <code>ML</code><br>
   📍 Lisbon, Portugal | 💼 Open to Remote, Hybrid & Freelance Roles
 </p>
 
