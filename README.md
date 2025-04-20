@@ -38,14 +38,24 @@ I completed an intensive **Data Analytics Bootcamp** at [Tripleten](https://trip
 
 ---
 
-### 📁 Highlighted Projects
+### 📁 Portfolio Highlights
 
-📌 **Customer Segmentation (RFM + KMeans)**  
-📌 **Churn Prediction with Logistic Regression**  
-📌 **Power BI Dashboard for Sales KPIs**  
-📌 **Sales Forecasting with Linear Regression**  
-📌 **Web Scraping with BeautifulSoup**  
-📌 **SQL Queries for E-commerce Dataset**
+| Project Name | Link | Languages & Tools | Description |
+|--------------|------|-------------------|-------------|
+| E-commerce Data Cleaning | [View Notebook](https://github.com/aguilhermerg/tripleten_projects/tree/main/project_1) | Python, Pandas | Cleaned and prepared messy e-commerce data for analysis and modeling. |
+| Music Streaming Analysis | [View Notebook](https://github.com/aguilhermerg/tripleten_projects/tree/main/project_2) | Python, Matplotlib | Explored user listening habits across different cities and platforms. |
+| Market Basket Analysis | [View Notebook](https://github.com/aguilhermerg/tripleten_projects/tree/main/project_3) | Python, mlxtend | Identified product bundles and frequent itemsets using association rules. |
+| Mobile Plan Optimization | [View Notebook](https://github.com/aguilhermerg/tripleten_projects/tree/main/project_4) | Python, Pandas | Recommended ideal mobile plans based on customer usage patterns. |
+| Vehicle Dashboard (Power BI) | [View Folder](https://github.com/aguilhermerg/tripleten_projects/tree/main/project_5) | Power BI, Excel | Created interactive dashboards for vehicle data using Power BI. |
+| Game Sales Analysis | [View Notebook](https://github.com/aguilhermerg/tripleten_projects/tree/main/project_6) | Python, Seaborn | Visualized and analyzed video game sales by region and platform. |
+| Taxi & Weather Patterns | [View Notebook](https://github.com/aguilhermerg/tripleten_projects/tree/main/project_7) | Python, Seaborn | Analyzed the impact of weather on taxi trip durations in Chicago. |
+| Marketing Budget Optimization | [View Notebook](https://github.com/aguilhermerg/tripleten_projects/tree/main/project_8) | Python, Scikit-learn | Built regression models to evaluate marketing channel efficiency. |
+| A/B Test Prioritization | [View Notebook](https://github.com/aguilhermerg/tripleten_projects/tree/main/project_9) | Python, SciPy | Ranked and analyzed A/B tests to identify statistically valid results. |
+| Robot Café Market Research | [View Notebook](https://github.com/aguilhermerg/tripleten_projects/tree/main/project_10) | Python, Pandas | Assessed LA neighborhoods for opening a robot-waiter café. |
+| Funnel & A/B Testing | [View Notebook](https://github.com/aguilhermerg/tripleten_projects/tree/main/project_11) | Python, Plotly | Investigated user behavior in a food delivery app with funnel and A/B tests. |
+| YouTube Trends (Tableau) | [View Folder](https://github.com/aguilhermerg/tripleten_projects/tree/main/project_12) | Tableau, Python | Created dashboards to explore trending video categories by country. |
+| Gym Churn Prediction | [View Notebook](https://github.com/aguilhermerg/tripleten_projects/tree/main/project_13) | Python, Scikit-learn | Predicted gym customer churn using classification models. |
+| E-commerce Segmentation (RFM) | [View Folder](https://github.com/aguilhermerg/tripleten_projects/tree/main/project_14_final) | Python, KMeans, RFM | Segmented customers using Recency, Frequency, and Monetary analysis + clustering. |
 
 🔗 Check all my work here → [GitHub Portfolio](https://github.com/aguilhermerg?tab=repositories)
 
